@@ -7,4 +7,6 @@
   <li><a href="https://modrinth.com/user/Lunatic">Modrinth (Minecraft)</li>
 </ul>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunatic-gh&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>I hope you have a wondeful day ^-^</h2>
