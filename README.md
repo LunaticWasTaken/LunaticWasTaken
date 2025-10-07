@@ -1,6 +1,4 @@
-<h1>Hey!</h1>
-
-<h2>I mostly create Mods for Video-Games.</h2>
+<h1>Hey! I mostly create Mods for Video-Games.</h1>
 
 <h2>All the coding/scripting languages i work with:</h2>
 <ul>
