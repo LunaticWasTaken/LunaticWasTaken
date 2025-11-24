@@ -8,4 +8,4 @@
   <li>Papyrus (Bethesda Games)</li>
 </ul>
 
-<h2>I hope you have a wondeful day ^-^</h2>
+<h2>I hope you have a wonderful day ^-^</h2>
