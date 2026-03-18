@@ -2,7 +2,7 @@
 
 <h2>All the coding/scripting languages i work with:</h2>
 <ul>
-  <li>C++</li>
+  <li>C / C++</li>
   <li>Java</li>
   <li>Python</li>
   <li>Papyrus (Bethesda Games)</li>
